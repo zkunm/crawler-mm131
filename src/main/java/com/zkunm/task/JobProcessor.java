@@ -1,6 +1,6 @@
-package org.example.task;
+package com.zkunm.task;
 
-import org.example.util.HttpUtils;
+import com.zkunm.util.HttpUtils;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
 import us.codecraft.webmagic.Page;

@@ -1,4 +1,4 @@
-package org.example.util;
+package com.zkunm.util;
 
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.methods.CloseableHttpResponse;
